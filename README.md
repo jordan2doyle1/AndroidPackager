@@ -8,7 +8,7 @@ Randomly selects an Android application from each category within the F-Droid ma
 
 ### build.py ###
 
-Builds an Android APK file from an applications source code using Gradle and the F-Droid marketplace build process.
+Builds an Android APK file from an applications source code using the Gradle build system and the F-Droid marketplace build process.
 
 ### jacoco.py ###
 
